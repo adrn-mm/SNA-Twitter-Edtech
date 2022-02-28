@@ -52,7 +52,7 @@ def transform_edglst(df):
         )
         .applymap(lambda s: s.lower())
     )
-    # weight column
+    # number of interactions column
     edglst = edglst.value_counts().to_frame("Weight").astype(float)
     return edglst.reset_index()
 
