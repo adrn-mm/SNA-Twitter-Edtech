@@ -13,3 +13,4 @@
 	- degree centrality yg digephi ga di normalized
 	- eigenvector dan average path length beda
 - cek lagi formulanya networkx sama ga dengan di buku
+- cek lagi pembagian metrik udah bener atau belum
