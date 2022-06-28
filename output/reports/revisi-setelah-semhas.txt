@@ -1,6 +1,5 @@
 1. Setiap metrik dikasih contoh dan proses perhitungannya
 2. Proses crawling disederhanakan, sesuai kebutuhan
-6. Masukin pembahasan dan contoh sederhana BFS di Bab 2
 8. Formula2 metrik dikroscek dengan referensi lain penulisannya
 9. Pembahasan keterangan presentase anggota ditambahkan di Bab 2 dan 4
 10. Perbesar gambar
