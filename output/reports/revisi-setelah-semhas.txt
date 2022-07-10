@@ -1,3 +1,0 @@
-9. Pembahasan keterangan presentase anggota ditambahkan di Bab 2 dan 4
-12. Pada data preprocessing dipastikan lagi itu merupakan perusahaan edtech
-14. Ada kesan Bab 4 tidak menjawab Bab 2. Mungkin setelah hasil perhitungan2 metrik, dijelasin dan dibahas lagi karakteristiknya seperti apa, bukan cuma membandingkan

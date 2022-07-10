@@ -9,10 +9,14 @@
 - cek jrnl-live
 - Yang beda sama gephi:
 	- betwennees centrality yang di gephi hrs diatur apakah normalized
-	- closeness centrality diatur yg di vscode itu di false, dan yg di gephi di un-normalized
+	- closeness centrality diatur yg di vscode itu di false, dan yg di gephi di un-normalizd
 	- degree centrality yg digephi ga di normalized
 	- eigenvector dan average path length beda
 - cek lagi formulanya networkx sama ga dengan di buku
 - cek lagi pembagian metrik udah bener atau belum
 - sampe nentuin yg jumlah trend ga tentu sebagus jaringan dan referensi metrik_2
 - ada alasan yang bagus kalau ditanya kenapa ga pake retweet, karena kalau interaksinya retweet ada kemungkina followers dari pengguna yang retweet tersebut tidak melihat retweetnya. Sehingga dalam konteks penyebaran informasi penulis lebih memilih menggunakan interaksi reply. karen proses penyebaran informasinya lebih terlihat dan dapat dikuantifikasi.
+- Perbaiki codingan yg bukan notebook didesain ada classnya mungkin
+- Perbaiki ppt mungkin bisa mirip punya mas oki
+- baca_2 lg DAA dan shortest path algorithm lain
+- verifikasi contoh perhitungan dengan networkx
