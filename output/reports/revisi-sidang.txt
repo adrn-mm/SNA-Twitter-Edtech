@@ -1,0 +1,55 @@
+Pak Darmaji:
+- Tren grafik pertumbuhan perusahan edtech & grafik penetrasi internet tidak bersesuaian
+- Metrik pada network properties apakah bisa diringkas?
+-----------------------------------------------------------------------------------------
+- Beberapa catatan ada di draft TA.
+-----------------------------------------------------------------------------------------
+- Penulisan tahun pada grafik Gambar 1.1 dan 1.2 tidak terbaca
+- Penjelasan graf lengkap.
+
+Pak Mukhklash:
+- Apakah pada kesimpulan terbukti dapat meningkatkan pemasaran?
+-----------------------------------------------------------------------
+- Relevansi hasil analisis dengna kondisi/performa Ruangguru dan Zenius.
+
+Pak Suhud:
+- Data yang digunakan apakah masih relevan?
+- Apakah hasil perhitungan dapat dibuat presentase?
+- Dalam melakukan perbandingan pada metrik apakah ada dasarnya?
+- Dalam melakukan perbandingan apakah bobot pada setiap metrik sama?
+---------------------------------------------------------------------
+- Penulisan TA diperbaiki misal et al diganti dkk.
+---------------------------------------------------------------------
+- Daftar pustaka di cek lagi, terutama penulisan retrieved tahun.
+
+Bu Alvida:
+- Pada setiap hasil perhitungan apakah ada insights bisnis yang bisa diambil atau dianalisis?
+- Kesimpulan tidak efisien dan terlalu normatif.
+- Modularity 0,3 tunjukkan referensinya.
+- Tabel tidak perlu duplikat.
+- Penjelasan kelompok besar dinarasikan dan diberikan referensi.
+- Apakah ada keterkaitan antara metrik network properties dan centrality?
+-----------------------------------------------------------------------------------------------------------------
+- Mohon ditambahi analisis yang lebih dalam dari hasil analisis network properties dan centrality.
+- Tambahi wawasan terkait peran dari network properties dan centrality terhadap performa dari Ruangguru & Zenius.
+-----------------------------------------------------------------------------------------------------------------
+- Dibaca2 lg coret2an dibagian kesimpulan.
+
+Pak Budi:
+- Suatu keniscayaan apakah jaringan yang lebih kecil akan selalu unggul dalam metrik yang menggunakan lintasan terpendek.
+- Apa itu geodesic
+- Bab 4 bukan hanya menghitung namun juga diberikan komentar atau analisis.
+- Penjelasan tentang fungsi ditambahkan ke Bab 4
+- Penjelasan detail dari Bab 2 ditambahkan ke Bab 4
+- Diberikan perhitungan sampel atau data dummy pada Bab 4 sehingga setiap metrik dapat tercermin atau terlihat keniscayaan tersebut.
+- Perbaiki konsistensi spasi dan paragraf
+- Apa urgensi dari penulisan perangkat keras?
+--------------------------------------------------------------------------------------------------------------------------------------
+- Interpretasi graf di Bab 2 diberikan contoh di Bab selanjutnya (Bab 4).
+-------------------------------------------------------------------------------------------------------------------------------------
+- Ada beberapa coret2an di abstrak.
+- Cek spasi di kata pengantar
+- Cek spasi dan penulisan di daftar isi.
+- Ada beberap coret2an di Batasan Masalah.
+- Ada coret2an di Tabel 4.8
+- font pada Bab 5.
